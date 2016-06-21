@@ -1,0 +1,9 @@
+c:\users\jonesm9\documents\visual studio 2015\Projects\WindowsFormsFileMaker\WindowsFormsFileMaker\bin\Debug\WindowsFormsFileMaker.exe.config
+c:\users\jonesm9\documents\visual studio 2015\Projects\WindowsFormsFileMaker\WindowsFormsFileMaker\bin\Debug\WindowsFormsFileMaker.exe
+c:\users\jonesm9\documents\visual studio 2015\Projects\WindowsFormsFileMaker\WindowsFormsFileMaker\bin\Debug\WindowsFormsFileMaker.pdb
+c:\users\jonesm9\documents\visual studio 2015\Projects\WindowsFormsFileMaker\WindowsFormsFileMaker\obj\Debug\WindowsFormsFileMaker.csprojResolveAssemblyReference.cache
+c:\users\jonesm9\documents\visual studio 2015\Projects\WindowsFormsFileMaker\WindowsFormsFileMaker\obj\Debug\WindowsFormsFileMaker.Form1.resources
+c:\users\jonesm9\documents\visual studio 2015\Projects\WindowsFormsFileMaker\WindowsFormsFileMaker\obj\Debug\WindowsFormsFileMaker.Properties.Resources.resources
+c:\users\jonesm9\documents\visual studio 2015\Projects\WindowsFormsFileMaker\WindowsFormsFileMaker\obj\Debug\WindowsFormsFileMaker.csproj.GenerateResource.Cache
+c:\users\jonesm9\documents\visual studio 2015\Projects\WindowsFormsFileMaker\WindowsFormsFileMaker\obj\Debug\WindowsFormsFileMaker.exe
+c:\users\jonesm9\documents\visual studio 2015\Projects\WindowsFormsFileMaker\WindowsFormsFileMaker\obj\Debug\WindowsFormsFileMaker.pdb

@@ -1,0 +1,5 @@
+c:\users\jonesm9\documents\visual studio 2015\Projects\ConditionalFunctions\ConditionalFunctions\bin\Release\ConditionalFunctions.exe.config
+c:\users\jonesm9\documents\visual studio 2015\Projects\ConditionalFunctions\ConditionalFunctions\bin\Release\ConditionalFunctions.exe
+c:\users\jonesm9\documents\visual studio 2015\Projects\ConditionalFunctions\ConditionalFunctions\bin\Release\ConditionalFunctions.pdb
+c:\users\jonesm9\documents\visual studio 2015\Projects\ConditionalFunctions\ConditionalFunctions\obj\Release\ConditionalFunctions.exe
+c:\users\jonesm9\documents\visual studio 2015\Projects\ConditionalFunctions\ConditionalFunctions\obj\Release\ConditionalFunctions.pdb

@@ -1,0 +1,6 @@
+c:\users\jonesm9\documents\visual studio 2015\Projects\EventDelegates\EventDelegates\bin\Debug\EventDelegates.exe.config
+c:\users\jonesm9\documents\visual studio 2015\Projects\EventDelegates\EventDelegates\bin\Debug\EventDelegates.exe
+c:\users\jonesm9\documents\visual studio 2015\Projects\EventDelegates\EventDelegates\bin\Debug\EventDelegates.pdb
+c:\users\jonesm9\documents\visual studio 2015\Projects\EventDelegates\EventDelegates\obj\Debug\EventDelegates.csprojResolveAssemblyReference.cache
+c:\users\jonesm9\documents\visual studio 2015\Projects\EventDelegates\EventDelegates\obj\Debug\EventDelegates.exe
+c:\users\jonesm9\documents\visual studio 2015\Projects\EventDelegates\EventDelegates\obj\Debug\EventDelegates.pdb

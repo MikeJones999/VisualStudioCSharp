@@ -1,0 +1,6 @@
+c:\users\jonesm9\documents\visual studio 2015\Projects\delegate\delegate\bin\Debug\@delegate.exe.config
+c:\users\jonesm9\documents\visual studio 2015\Projects\delegate\delegate\bin\Debug\@delegate.exe
+c:\users\jonesm9\documents\visual studio 2015\Projects\delegate\delegate\bin\Debug\@delegate.pdb
+c:\users\jonesm9\documents\visual studio 2015\Projects\delegate\delegate\obj\Debug\delegate.csprojResolveAssemblyReference.cache
+c:\users\jonesm9\documents\visual studio 2015\Projects\delegate\delegate\obj\Debug\@delegate.exe
+c:\users\jonesm9\documents\visual studio 2015\Projects\delegate\delegate\obj\Debug\@delegate.pdb

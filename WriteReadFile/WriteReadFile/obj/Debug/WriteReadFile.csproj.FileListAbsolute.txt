@@ -1,0 +1,6 @@
+c:\users\jonesm9\documents\visual studio 2015\Projects\WriteReadFile\WriteReadFile\bin\Debug\WriteReadFile.exe.config
+c:\users\jonesm9\documents\visual studio 2015\Projects\WriteReadFile\WriteReadFile\bin\Debug\WriteReadFile.exe
+c:\users\jonesm9\documents\visual studio 2015\Projects\WriteReadFile\WriteReadFile\bin\Debug\WriteReadFile.pdb
+c:\users\jonesm9\documents\visual studio 2015\Projects\WriteReadFile\WriteReadFile\obj\Debug\WriteReadFile.csprojResolveAssemblyReference.cache
+c:\users\jonesm9\documents\visual studio 2015\Projects\WriteReadFile\WriteReadFile\obj\Debug\WriteReadFile.exe
+c:\users\jonesm9\documents\visual studio 2015\Projects\WriteReadFile\WriteReadFile\obj\Debug\WriteReadFile.pdb

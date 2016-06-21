@@ -1,0 +1,6 @@
+c:\users\jonesm9\documents\visual studio 2015\Projects\ConditionalFunctions\ConditionalFunctions\bin\Debug\ConditionalFunctions.exe.config
+c:\users\jonesm9\documents\visual studio 2015\Projects\ConditionalFunctions\ConditionalFunctions\bin\Debug\ConditionalFunctions.exe
+c:\users\jonesm9\documents\visual studio 2015\Projects\ConditionalFunctions\ConditionalFunctions\bin\Debug\ConditionalFunctions.pdb
+c:\users\jonesm9\documents\visual studio 2015\Projects\ConditionalFunctions\ConditionalFunctions\obj\Debug\ConditionalFunctions.csprojResolveAssemblyReference.cache
+c:\users\jonesm9\documents\visual studio 2015\Projects\ConditionalFunctions\ConditionalFunctions\obj\Debug\ConditionalFunctions.exe
+c:\users\jonesm9\documents\visual studio 2015\Projects\ConditionalFunctions\ConditionalFunctions\obj\Debug\ConditionalFunctions.pdb

@@ -1,0 +1,5 @@
+c:\users\jonesm9\documents\visual studio 2015\Projects\GenericInterfaxces\GenericInterfaxces\bin\Debug\GenericInterfaxces.exe.config
+c:\users\jonesm9\documents\visual studio 2015\Projects\GenericInterfaxces\GenericInterfaxces\bin\Debug\GenericInterfaxces.exe
+c:\users\jonesm9\documents\visual studio 2015\Projects\GenericInterfaxces\GenericInterfaxces\bin\Debug\GenericInterfaxces.pdb
+c:\users\jonesm9\documents\visual studio 2015\Projects\GenericInterfaxces\GenericInterfaxces\obj\Debug\GenericInterfaxces.exe
+c:\users\jonesm9\documents\visual studio 2015\Projects\GenericInterfaxces\GenericInterfaxces\obj\Debug\GenericInterfaxces.pdb

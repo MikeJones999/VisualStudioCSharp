@@ -1,0 +1,6 @@
+c:\users\jonesm9\documents\visual studio 2015\Projects\EqualsAndHash\EqualsAndHash\bin\Debug\EqualsAndHash.exe.config
+c:\users\jonesm9\documents\visual studio 2015\Projects\EqualsAndHash\EqualsAndHash\bin\Debug\EqualsAndHash.exe
+c:\users\jonesm9\documents\visual studio 2015\Projects\EqualsAndHash\EqualsAndHash\bin\Debug\EqualsAndHash.pdb
+c:\users\jonesm9\documents\visual studio 2015\Projects\EqualsAndHash\EqualsAndHash\obj\Debug\EqualsAndHash.csprojResolveAssemblyReference.cache
+c:\users\jonesm9\documents\visual studio 2015\Projects\EqualsAndHash\EqualsAndHash\obj\Debug\EqualsAndHash.exe
+c:\users\jonesm9\documents\visual studio 2015\Projects\EqualsAndHash\EqualsAndHash\obj\Debug\EqualsAndHash.pdb

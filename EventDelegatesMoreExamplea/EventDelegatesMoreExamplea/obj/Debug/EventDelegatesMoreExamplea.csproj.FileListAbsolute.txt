@@ -1,0 +1,6 @@
+c:\users\jonesm9\documents\visual studio 2015\Projects\EventDelegatesMoreExamplea\EventDelegatesMoreExamplea\bin\Debug\EventDelegatesMoreExamplea.exe.config
+c:\users\jonesm9\documents\visual studio 2015\Projects\EventDelegatesMoreExamplea\EventDelegatesMoreExamplea\bin\Debug\EventDelegatesMoreExamplea.exe
+c:\users\jonesm9\documents\visual studio 2015\Projects\EventDelegatesMoreExamplea\EventDelegatesMoreExamplea\bin\Debug\EventDelegatesMoreExamplea.pdb
+c:\users\jonesm9\documents\visual studio 2015\Projects\EventDelegatesMoreExamplea\EventDelegatesMoreExamplea\obj\Debug\EventDelegatesMoreExamplea.csprojResolveAssemblyReference.cache
+c:\users\jonesm9\documents\visual studio 2015\Projects\EventDelegatesMoreExamplea\EventDelegatesMoreExamplea\obj\Debug\EventDelegatesMoreExamplea.exe
+c:\users\jonesm9\documents\visual studio 2015\Projects\EventDelegatesMoreExamplea\EventDelegatesMoreExamplea\obj\Debug\EventDelegatesMoreExamplea.pdb
