@@ -1,0 +1,14 @@
+c:\users\jonesm9\documents\visual studio 2015\Projects\SimpWpf\SimpWpf\bin\Debug\SimpWpf.exe.config
+c:\users\jonesm9\documents\visual studio 2015\Projects\SimpWpf\SimpWpf\bin\Debug\SimpWpf.exe
+c:\users\jonesm9\documents\visual studio 2015\Projects\SimpWpf\SimpWpf\bin\Debug\SimpWpf.pdb
+c:\users\jonesm9\documents\visual studio 2015\Projects\SimpWpf\SimpWpf\obj\Debug\SimpWpf.csprojResolveAssemblyReference.cache
+c:\users\jonesm9\documents\visual studio 2015\Projects\SimpWpf\SimpWpf\obj\Debug\MainWindow.g.cs
+c:\users\jonesm9\documents\visual studio 2015\Projects\SimpWpf\SimpWpf\obj\Debug\App.g.cs
+c:\users\jonesm9\documents\visual studio 2015\Projects\SimpWpf\SimpWpf\obj\Debug\SimpWpf_MarkupCompile.cache
+c:\users\jonesm9\documents\visual studio 2015\Projects\SimpWpf\SimpWpf\obj\Debug\SimpWpf_MarkupCompile.lref
+c:\users\jonesm9\documents\visual studio 2015\Projects\SimpWpf\SimpWpf\obj\Debug\MainWindow.baml
+c:\users\jonesm9\documents\visual studio 2015\Projects\SimpWpf\SimpWpf\obj\Debug\SimpWpf.g.resources
+c:\users\jonesm9\documents\visual studio 2015\Projects\SimpWpf\SimpWpf\obj\Debug\SimpWpf.Properties.Resources.resources
+c:\users\jonesm9\documents\visual studio 2015\Projects\SimpWpf\SimpWpf\obj\Debug\SimpWpf.csproj.GenerateResource.Cache
+c:\users\jonesm9\documents\visual studio 2015\Projects\SimpWpf\SimpWpf\obj\Debug\SimpWpf.exe
+c:\users\jonesm9\documents\visual studio 2015\Projects\SimpWpf\SimpWpf\obj\Debug\SimpWpf.pdb

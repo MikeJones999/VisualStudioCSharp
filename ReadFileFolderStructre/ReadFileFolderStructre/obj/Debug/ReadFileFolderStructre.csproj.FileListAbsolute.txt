@@ -1,0 +1,5 @@
+c:\users\jonesm9\documents\visual studio 2015\Projects\ReadFileFolderStructre\ReadFileFolderStructre\bin\Debug\ReadFileFolderStructre.exe.config
+c:\users\jonesm9\documents\visual studio 2015\Projects\ReadFileFolderStructre\ReadFileFolderStructre\bin\Debug\ReadFileFolderStructre.exe
+c:\users\jonesm9\documents\visual studio 2015\Projects\ReadFileFolderStructre\ReadFileFolderStructre\bin\Debug\ReadFileFolderStructre.pdb
+c:\users\jonesm9\documents\visual studio 2015\Projects\ReadFileFolderStructre\ReadFileFolderStructre\obj\Debug\ReadFileFolderStructre.exe
+c:\users\jonesm9\documents\visual studio 2015\Projects\ReadFileFolderStructre\ReadFileFolderStructre\obj\Debug\ReadFileFolderStructre.pdb

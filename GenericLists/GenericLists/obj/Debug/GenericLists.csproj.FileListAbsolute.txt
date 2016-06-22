@@ -1,0 +1,5 @@
+c:\users\jonesm9\documents\visual studio 2015\Projects\GenericLists\GenericLists\bin\Debug\GenericLists.exe.config
+c:\users\jonesm9\documents\visual studio 2015\Projects\GenericLists\GenericLists\bin\Debug\GenericLists.exe
+c:\users\jonesm9\documents\visual studio 2015\Projects\GenericLists\GenericLists\bin\Debug\GenericLists.pdb
+c:\users\jonesm9\documents\visual studio 2015\Projects\GenericLists\GenericLists\obj\Debug\GenericLists.exe
+c:\users\jonesm9\documents\visual studio 2015\Projects\GenericLists\GenericLists\obj\Debug\GenericLists.pdb

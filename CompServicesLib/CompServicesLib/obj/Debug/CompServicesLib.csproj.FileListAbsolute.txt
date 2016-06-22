@@ -1,0 +1,8 @@
+c:\users\jonesm9\documents\visual studio 2015\Projects\CompServicesLib\CompServicesLib\bin\Debug\CompServicesLib.exe.config
+c:\users\jonesm9\documents\visual studio 2015\Projects\CompServicesLib\CompServicesLib\bin\Debug\CompServicesLib.exe
+c:\users\jonesm9\documents\visual studio 2015\Projects\CompServicesLib\CompServicesLib\bin\Debug\CompServicesLib.pdb
+c:\users\jonesm9\documents\visual studio 2015\Projects\CompServicesLib\CompServicesLib\bin\Debug\CompServices.dll
+c:\users\jonesm9\documents\visual studio 2015\Projects\CompServicesLib\CompServicesLib\bin\Debug\CompServices.pdb
+c:\users\jonesm9\documents\visual studio 2015\Projects\CompServicesLib\CompServicesLib\obj\Debug\CompServicesLib.csprojResolveAssemblyReference.cache
+c:\users\jonesm9\documents\visual studio 2015\Projects\CompServicesLib\CompServicesLib\obj\Debug\CompServicesLib.exe
+c:\users\jonesm9\documents\visual studio 2015\Projects\CompServicesLib\CompServicesLib\obj\Debug\CompServicesLib.pdb

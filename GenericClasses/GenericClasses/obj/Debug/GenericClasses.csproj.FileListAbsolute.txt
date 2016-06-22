@@ -1,0 +1,6 @@
+c:\users\jonesm9\documents\visual studio 2015\Projects\GenericClasses\GenericClasses\bin\Debug\GenericClasses.exe.config
+c:\users\jonesm9\documents\visual studio 2015\Projects\GenericClasses\GenericClasses\bin\Debug\GenericClasses.exe
+c:\users\jonesm9\documents\visual studio 2015\Projects\GenericClasses\GenericClasses\bin\Debug\GenericClasses.pdb
+c:\users\jonesm9\documents\visual studio 2015\Projects\GenericClasses\GenericClasses\obj\Debug\GenericClasses.exe
+c:\users\jonesm9\documents\visual studio 2015\Projects\GenericClasses\GenericClasses\obj\Debug\GenericClasses.pdb
+c:\users\jonesm9\documents\visual studio 2015\Projects\GenericClasses\GenericClasses\obj\Debug\GenericClasses.csprojResolveAssemblyReference.cache

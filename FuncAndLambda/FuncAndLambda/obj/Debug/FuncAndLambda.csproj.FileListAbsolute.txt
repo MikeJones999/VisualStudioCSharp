@@ -1,0 +1,6 @@
+c:\users\jonesm9\documents\visual studio 2015\Projects\FuncAndLambda\FuncAndLambda\bin\Debug\FuncAndLambda.exe.config
+c:\users\jonesm9\documents\visual studio 2015\Projects\FuncAndLambda\FuncAndLambda\bin\Debug\FuncAndLambda.exe
+c:\users\jonesm9\documents\visual studio 2015\Projects\FuncAndLambda\FuncAndLambda\bin\Debug\FuncAndLambda.pdb
+c:\users\jonesm9\documents\visual studio 2015\Projects\FuncAndLambda\FuncAndLambda\obj\Debug\FuncAndLambda.csprojResolveAssemblyReference.cache
+c:\users\jonesm9\documents\visual studio 2015\Projects\FuncAndLambda\FuncAndLambda\obj\Debug\FuncAndLambda.exe
+c:\users\jonesm9\documents\visual studio 2015\Projects\FuncAndLambda\FuncAndLambda\obj\Debug\FuncAndLambda.pdb
